@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d9bcb467753dd8b42b2d44e53b130928
+timeCreated: 1487690741
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: As pedras da Belle Otero
+  fontNames:
+  - As pedras da Belle Otero
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
